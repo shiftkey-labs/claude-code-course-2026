@@ -85,12 +85,14 @@ Push two commits to your fork:
 - Commit: `git commit -m "feat: add api.js comments"`
 
 **Commit 2 — CLAUDE.md + rewritten comments**
-- Fill in `CLAUDE.md` with your background, how you learn best, and how you like Claude to talk to you
+- Write `CLAUDE.md` **by hand** — your background, how you learn best, how you like Claude to talk to you
 - Ask Claude the same questions again — notice how the answers change
 - Rewrite your comments based on the better explanations
 - Commit: `git commit -m "feat: add CLAUDE.md and rewrite comments"`
 
 The diff between your two commits *is* the assignment — it shows what personalizing Claude's context actually does.
+
+> **Why write CLAUDE.md yourself?** Claude can write it for you — but don't let it. CLAUDE.md is the one file in this repo that has to come from you. It's what makes your codebase yours. Every other file Claude touches; this one is where you tell Claude who you are. The more honest and specific you are, the more useful every future interaction becomes. Think of it as authoring your own developer identity.
 
 ### Tips for asking Claude Code about this codebase
 - *"Explain api.js to me like I've never seen an API before"*
