@@ -48,6 +48,8 @@ cp .env.example .env
 ```
 Open `.env` and replace `your-api-key-here` with the key your instructor gave you.
 
+> **Never commit your `.env` file.** The repo already includes a `.gitignore` that blocks it, but double-check before pushing: run `git status` and make sure `.env` does not appear in the list.
+
 **5. Run devlens**
 ```bash
 node index.js
