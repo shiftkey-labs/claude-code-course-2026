@@ -220,3 +220,12 @@ Push your commits to your fork on GitHub and share the link with your instructor
 ```bash
 git push origin main
 ```
+
+## Submission links
+
+Below are direct links to the files you submitted for each week. Share your repository URL with your instructor; these files live in this fork.
+
+- Week 1: [CLAUDE.md](CLAUDE.md) and [api.js](api.js)
+- Week 2: [reflections/week-2-existing-skill.md](reflections/week-2-existing-skill.md) and [.claude/skills/trace/SKILL.md](.claude/skills/trace/SKILL.md)
+- Week 3: [traces/week-3.md](traces/week-3.md)
+- Week 4: [traces/week-4.md](traces/week-4.md)
